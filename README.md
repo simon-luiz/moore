@@ -1,0 +1,2 @@
+# moore
+inicio vergonhoso
